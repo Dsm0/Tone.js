@@ -1,3 +1,5 @@
+experimental fork of Tone.js meant for use with Tidalcycles 
+
 Tone.js
 =========
 
